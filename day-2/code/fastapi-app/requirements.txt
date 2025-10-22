@@ -1,0 +1,4 @@
+fastapi==0.119.1
+image-text-reader==1.0.1
+
+# All these dependencies installed from https://pypi.org/

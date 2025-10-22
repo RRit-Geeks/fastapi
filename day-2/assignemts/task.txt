@@ -1,0 +1,4 @@
+1. How can we create Python Virtual Environments.
+2. What is Conda?How it is helpful for a developer.
+3. How do you maintain the dependecies life cycle in Python Projects.
+4. Create your FastAPI application and create at least one rest end point.

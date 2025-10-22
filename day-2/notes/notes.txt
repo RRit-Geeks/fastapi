@@ -1,0 +1,27 @@
+1. Creating an Environment:
+
+    python -m venv "{name_of_your_environment}"
+
+    venv-> It is a python module, which can be utilized to create environments for Python Project.
+
+2. How do you activate your env.
+{name_of_your_environment}\Scripts\Activate.ps1
+
+3. How do you deactivate your env. 
+    deactivate
+
+
+4. How do you install all your dependencies.
+    pip install {name_of_your_library} =>
+
+    pip uninstall {name_of_your_library}
+
+
+    pip uninstall {name_of_your_library}=={version}
+
+    pip freeze
+
+    pip install -r .\requirements.txt
+
+
+# All these dependencies installed from https://pypi.org/
