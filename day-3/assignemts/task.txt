@@ -1,0 +1,5 @@
+1. What is uvicorn? What is the purpose of it.
+2. What are http methods available. Write down the use cases of each method.
+3. What is CRUD? Write some notes on it.
+4. What is host address? What is port number. What do you know about these.
+5. How can I access the application running in my local system from the browser.
