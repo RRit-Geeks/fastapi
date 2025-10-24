@@ -5,4 +5,4 @@
 5. How can I access the application running in my local system from the browser.
 6. What is APIRouter? Why do we use this.
 7. What is pydantic module? What is the purpose of it.
-8. Create CRUD operations endpoints for student-service, book-service.
+8. Create CRUD operations endpoints for student-service, book-service, person-service, employee-service, cart-service.
