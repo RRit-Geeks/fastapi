@@ -1,0 +1,3 @@
+1. What is Path Parameter/Variable and Request/Query Parameter/Variable. What are the limitations on bothe of them.
+2. What are the differences between these two.
+3. Create Rest Endpoint methods with both the type of parameters at least 10+ rest Endpoints.
