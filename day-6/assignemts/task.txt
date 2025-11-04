@@ -1,0 +1,2 @@
+1. What are the different layers that are present in FastAPI. What is the respoinsibility of each layer in this.
+2. Create a service with Controller and Service Layers at least 3 + services.
