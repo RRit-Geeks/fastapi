@@ -1,0 +1,4 @@
+1. What is DI(Dependancy Injection). What are the advantages of it.
+How do you achieve this in the FastAPI.
+3. What is lru_cache? What is the use of it. Please go and have a look on other ways to cache in Python FastAPI.
+2. Dig about loggers.
