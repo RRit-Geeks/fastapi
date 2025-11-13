@@ -1,6 +1,5 @@
 from src.models.doctor import Doctor
-
-
+import logging
 class DoctorService:
     def __init__(self):
         self.doctors: dict[int, Doctor] = {}
